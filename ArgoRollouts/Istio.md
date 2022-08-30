@@ -175,7 +175,7 @@ kubectl argo rollouts set image rollouts-demo rollouts-demo=argoproj/rollouts-de
 
 查看当前状态
 
-```
+```shell
 kubectl argo rollouts get rollout rollouts-demo --watch
 ```
 
