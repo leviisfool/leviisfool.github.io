@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Test Documentation
+# Argo Rollouts
 
 ```
 {% raw %}{% include list.liquid all=true %}{% endraw %}
