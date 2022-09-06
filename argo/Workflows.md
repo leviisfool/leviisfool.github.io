@@ -494,8 +494,8 @@ spec:
 
 默认的outputs在`outputs.result`中，最大允许256kb，包括
 
-- `{{ tasks.xxx.outputs.result }}`
-- `{{ steps.xxx.outputs.result }}`
+- {{ tasks.xxx.outputs.result }}
+- {{ steps.xxx.outputs.result }}
 
 ## Loops
 
